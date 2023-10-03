@@ -1,0 +1,48 @@
+Idea 1
+An improved Note taking solution 
+
+Problem - Note taking and memorization is very tedious. 
+Taking notes in class, rewrite those notes in more detail after class, 
+Make flash cards for notes, create a vocab sheet, color code notes, 
+
+- This causes us to rewrite our notes too often or neglect them all 
+together
+
+Solution - Using Psuedo-code, everyone can take notes once and 
+have the notes automatically filter in to new pages based on the page
+types
+
+Example:
+Pointer: this variable stores the memory address of another variable
+Code: int *food = &pizza;
+Why is this useful, we can use this to dynamically allocate resources
+
+our app would do this:
+
+[Vocabulary] Pointer ;(semi-colon is the delimiter) 
+  this variable stores the memory address of another variable
+
+then users can goto Vocabulary.txt and all Vocabulary they marked 
+the definition.
+
+Alternatively, users could create a brain_storm.txt
+and create another sheet called [Coding_Ideas]. Then users can rewrite 
+the following: [Coding_Ideas] A project about penguins; code app for 
+talking penguins. 
+
+Then Coding_Ideas.txt would have all of these ideas, organizing it for
+them. Also these values would be pass by values, then users can edit 
+definitions in any .txt file to see the live changes
+
+
+---------------------------
+Idea 2
+Community Art app
+
+An app that simplifies Community outreach for emerging artists
+
+Problem: Artists have difficulty getting their work noticed
+
+Solution: Create an app that allows artists to sell work, talk with 
+potential art buyers, and promote their work all in one place
+
